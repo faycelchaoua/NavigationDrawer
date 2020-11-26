@@ -4,7 +4,7 @@
     <string name="slideshow">Slideshow</string>
     <string name="gallery">Gallery</string>
     <string name="imp">Import</string>
-    <string name="navigation_drawer">Navigation Drawer</string>
+    <!--<string name="navigation_drawer">Navigation Drawer</string>-->
     <string name="nav_header_desc">Navigation Header</string>
     <string name="nav_header_title">fad.e-formation.tn</string>
     <string name="nav_header_subtitle">Plateforme EAD</string>
